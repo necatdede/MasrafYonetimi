@@ -1,0 +1,28 @@
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\bin\Debug\MasrafYonetimi.exe.config
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.csprojResolveAssemblyReference.cache
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Ana.resources
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Properties.Resources.resources
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.csproj.GenerateResource.Cache
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\bin\Debug\MasrafYonetimi.exe
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\bin\Debug\MasrafYonetimi.pdb
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.exe
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.pdb
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\bin\Debug\System.Data.SQLite.dll
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Gelir.resources
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Gider.resources
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Rapor.resources
+Z:\---NECAT DEDE---\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Ayarlar.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\bin\Debug\MasrafYonetimi.exe.config
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.exe
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.pdb
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\bin\Debug\MasrafYonetimi.exe
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\bin\Debug\MasrafYonetimi.pdb
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.csprojResolveAssemblyReference.cache
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Ana.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Ayarlar.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Gelir.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Gider.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Properties.Resources.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.Rapor.resources
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.csproj.GenerateResource.Cache
+G:\flash\09.04.2018\MasrafYonetimi\MasrafYonetimi\obj\Debug\MasrafYonetimi.İstatistik.resources
