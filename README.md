@@ -1,1 +1,2 @@
-Lisede yapmış olduğum basit bir masaüstü uygulaması
+Lise derslerinde yapmış olduğum basit bir c# uygulaması
+
