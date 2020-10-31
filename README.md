@@ -1,1 +1,1 @@
-# MasrafYonetimi
+Lisede yapmış olduğum basit bir masaüstü uygulaması
